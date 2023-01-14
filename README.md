@@ -23,7 +23,13 @@ Você pode visualizar o layout do desafio através [desse link](https://www.figm
 
 ## 👨‍💻 Resolução
 
-[Acesse o projeto finalizado, online](https://Tche-Marco.github.io/desafio-rocketseat)
+<div align="center">
+  <a href="https://tche-marco.github.io/desafio-rocketseat/">
+    <img alt="imagem do projeto" src="https://boracodar.dev/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fi2tygjCeQSS7ID62L98A&w=1080&q=75" width="60%">
+  </a>
+  
+  [Acesse o projeto finalizado, online](https://tche-marco.github.io/desafio-rocketseat/)
+</div>
 
 ### 🚀 Tecnologias
 
@@ -32,7 +38,3 @@ Você pode visualizar o layout do desafio através [desse link](https://www.figm
   - JavaScript
   - Git e Github
   - Figma
-
-<p align="center">
-  <img alt="imagem do projeto" src="https://boracodar.dev/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fi2tygjCeQSS7ID62L98A&w=1080&q=75" width="70%">
-</p>
