@@ -1,21 +1,20 @@
-<h1 align="center">Desafio #boraCodar</h1>
+<h1 align="center">Resolução do desafio #boraCodar</h1>
+
+<p align="center">Site criado como resposta ao desafio #boraCodar da Rocketseat</p>
 
 <p align="center">
-Site criado como resposta ao desafio #boraCodar da Rocketseat<br/>
-</p>
-
-<p align="center">
-  <a href="#">Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-resolucao">Resolução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  Desafio 
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  Resolução 
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  Preview 
 </p>
 
 <br/>
 
 ## 💻 Desafio
 
-O desafio consiste em desenvolver um card de produto, conforme apresentado no layout. Podendo ser utilizando qualquer tecnologia. 
-Você pode visualizar o layout do desafio através [desse link](https://www.figma.com/community/file/1195050984449538256), que é do projeto no figma onde há o protótipo e os link a serem utilizados.
+O desafio consiste em desenvolver um card de produto interativo, podendo ser utilizada qualquer tecnologia. A visualização do layout do mesmo é através [desse link](https://www.figma.com/community/file/1195050984449538256), onde há o projeto no figma com o protótipo e os link a serem utilizados.
 
 > É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
@@ -23,18 +22,23 @@ Você pode visualizar o layout do desafio através [desse link](https://www.figm
 
 ## 👨‍💻 Resolução
 
-<div align="center">
-  <a href="https://tche-marco.github.io/desafio-rocketseat/">
-    <img alt="imagem do projeto" src="https://boracodar.dev/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fi2tygjCeQSS7ID62L98A&w=1080&q=75" width="60%">
-  </a>
-  
-  [Acesse o projeto finalizado, online](https://tche-marco.github.io/desafio-rocketseat/)
-</div>
-
-### 🚀 Tecnologias
-
 #### Esse projeto foi desenvolvido com as seguintes tecnologias:
   - HTML e CSS
   - JavaScript
   - Git e Github
   - Figma
+
+<br/>
+
+## 🚀 Preview
+
+#### Pré visualização da minha resposta ao desafio:
+>  Acesse o site do meu projeto clicando na imagem
+
+<br/>
+
+<div align="center">
+  <a href="https://tche-marco.github.io/desafio-rocketseat/">
+    <img alt="projeto" src=".github/preview.png" width="70%">
+  </a>    
+</div>
